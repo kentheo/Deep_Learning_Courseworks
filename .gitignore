@@ -1,2 +1,4 @@
 .ipynb_checkpoints
 __pycache__
+cw1/utils/*
+cw2/utils/*
